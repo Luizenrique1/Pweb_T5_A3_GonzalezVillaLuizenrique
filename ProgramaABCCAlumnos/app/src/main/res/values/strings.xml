@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">BD_Android_HTTP</string>
+
+    <string name="txt_usuario">Ingresa usuario</string>
+    <string name="txt_contraseña">Ingresa contraseña</string>
+
+    <string name="hint_ususario">Correo electronico</string>
+    <string name="hint_contraseña">Maximo 8 caracteres</string>
+
+    <string name="btn_registrar">REGISTRO</string>
+    <string name="btn_acceder">ACCEDER</string>
+    <string name="btn_modulo_altas">AGREGAR ALUMNOS</string>
+    <string name="btn_modulo_bajas">ELIMINAR ALUMNOS</string>
+    <string name="btn_modulo_cambios">MODIFICAR ALUMNOS</string>
+    <string name="btn_modulo_consultas">CONSULTAR ALUMNOS</string>
+    <string name="title_activity_alumnos">ActivityAlumnos</string>
+
+    <string name="btn_cerras_sesion">CERRAR SESION</string>
+
+    <string name="agregar">AGREGAR ALUMNOS</string>
+    <string name="txt_num_control">Ingresa numero de control</string>
+    <string name="txt_nombre">Ingresa nombre</string>
+    <string name="txt_primerAp">Ingresa primer apellido</string>
+    <string name="txt_segundoAp">Ingresa segundo apellido</string>
+    <string name="txt_edad">Ingresa edad</string>
+    <string name="txt_semestre">Seleccion semestre</string>
+    <string name="txt_carrera">Selecciona carrera</string>
+
+    <string name="hint_numeros">Solo numeros</string>
+    <string name="hint_letras">Solo letras</string>
+
+    <string-array name="semestres">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="carreras">
+        <item>ISC</item>
+        <item>IM</item>
+        <item>IIA</item>
+        <item>LC</item>
+        <item>LA</item>
+    </string-array>
+
+    <string-array name="parametro">
+        <item>Numero de control</item>
+        <item>Nombre</item>
+        <item>PrimerAp</item>
+    </string-array>
+
+    <string name="parametro_busqueda">Ingresa parametro de busqueda</string>
+
+    <string name="btn_altas_alumnos">AGREGAR</string>
+    <string name="btn_cambios_alumnos">MODIFICAR</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
